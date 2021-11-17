@@ -1,1 +1,1 @@
-# ClassProjects
+# PhotoGallery
